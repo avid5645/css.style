@@ -1,4 +1,4 @@
-<script>
+
     var nameArr = [
       "Nikel-jak",
       "Sam-al",
@@ -71,4 +71,3 @@
         $(".notification-bottom-left").stop().slideToggle("fast");
       }, 4000);
     }, 5000);
-  </script>
